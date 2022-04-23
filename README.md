@@ -1,4 +1,4 @@
-# voxel-city
+# voxel-city burh
 
 loads PNG heightmaps into voxel.js.
 
